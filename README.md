@@ -8,4 +8,4 @@ Render Link:https://f2wb05ravuri.onrender.com
 
 electronics_product - string
 electronics_price - number
-electronics_quantity - number
+electronics_size - string
